@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Rupam-git2006/portfolio/static/css/main.58a0c615.css",
-    "main.js": "/Rupam-git2006/portfolio/static/js/main.1ea3a79f.js",
-    "static/media/HeroImage.jpg": "/Rupam-git2006/portfolio/static/media/HeroImage.6675e052a76a527f0f96.jpg",
-    "index.html": "/Rupam-git2006/portfolio/index.html",
-    "main.58a0c615.css.map": "/Rupam-git2006/portfolio/static/css/main.58a0c615.css.map",
-    "main.1ea3a79f.js.map": "/Rupam-git2006/portfolio/static/js/main.1ea3a79f.js.map"
+    "main.css": "/portfolio/static/css/main.58a0c615.css",
+    "main.js": "/portfolio/static/js/main.e7061b4f.js",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.6675e052a76a527f0f96.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.58a0c615.css.map": "/portfolio/static/css/main.58a0c615.css.map",
+    "main.e7061b4f.js.map": "/portfolio/static/js/main.e7061b4f.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.1ea3a79f.js"
+    "static/js/main.e7061b4f.js"
   ]
 }

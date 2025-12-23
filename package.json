@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Rupam-git2006/portfolio",
+  "homepage": "https://Rupam-git2006.github.io/portfolio",
   "name": "3d-portfolio-website",
   "version": "0.1.0",
   "private": true,
@@ -36,8 +36,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
